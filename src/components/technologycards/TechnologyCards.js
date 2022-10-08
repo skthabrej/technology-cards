@@ -6,7 +6,7 @@ class TechnologyCards extends Component {
     render() {
         return(
             <div>
-                <h1>vv</h1>
+                <h1>kk</h1>
             </div>
         )
     }
