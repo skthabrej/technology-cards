@@ -1,0 +1,76 @@
+.card-1 {
+    background-color: #ffffff;
+    border-radius: 14px;
+    border-top: 6px solid #ff4f64;
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 50%;
+    max-width: 500px;
+    margin-right: 20px;
+    margin-left: auto;
+    margin-bottom: 15px;
+}
+
+.card-2 {
+    background-color: #ffffff;
+    border-radius: 14px;
+    border-top: 6px solid #00a8e7;
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 50%;
+    max-width: 500px;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+.card-3 {
+    background-color: #ffffff;
+    border-radius: 14px;
+    border-top: 6px solid #44c4a1;
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 50%;
+    max-width: 500px;
+    margin-right: 20px;
+    margin-left: auto;
+    margin-top: 15px;
+}
+
+.card-4 {
+    background-color: #ffffff;
+    border-radius: 14px;
+    border-top: 6px solid #fcc200;
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 50%;
+    max-width: 500px;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.card-heading {
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    color: #171f46;
+}
+
+.card-paragraph {
+    font-size: 15px;
+}
+
+.images {
+    height: 40%;
+    width: 40%;
+    border-radius: 20px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.img-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
